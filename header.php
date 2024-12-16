@@ -3,8 +3,8 @@
       <div class="header-area__inner">
         <div class="header__logo">
           <a href="#">
-            <img class="show-light" src="assets/imgs/logo/logo.png" alt="Site Logo">
-            <img class="show-dark" src="assets/imgs/logo/logo-light.png" alt="Site Logo">
+            <img class="show-light" src="assets/imgs/logo/logo.png" alt="Site Logo" width="150px">
+            <img class="show-dark" src="assets/imgs/logo/logo.png" alt="Site Logo" width="150px>
           </a>
         </div>
         <div class="header__nav pos-center">
