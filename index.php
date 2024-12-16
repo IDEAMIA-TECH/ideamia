@@ -138,8 +138,8 @@
                   <div class="content-first">
                     <div class="section-title-wrapper">
                       <div class="title-wrapper">
-                        <h1 class="section-title has_fade_anim">Expertos 
-                           <span class="marked"> en<br>
+                        <h1 class="section-title has_fade_anim">Expertos en
+                           <span class="marked"> <br>
                             </span> Marqueting y Desarrollo<span class="rotated"></span><span class="shape-1">
                             <img class="show-light has_fade_anim" data-fade-offset="0"
                               src="assets/imgs/shape/img-s-60.webp" alt="shape">
@@ -175,20 +175,13 @@
                         <img class="show-light" src="assets/imgs/shape/img-s-62.webp" alt="shape">
                         <img class="show-dark" src="assets/imgs/shape/img-s-62-light.webp" alt="shape">
                       </div>
-                      <div class="video-btn-box">
-                        <div class="video-btn">
-                          <a href="https://crowdytheme.com/assets/wp-content/uploads/2024/05/insurance-video.mp4"
-                            class="wc-btn wc-btn-circle video-popup"><i class="fa-solid fa-play"></i></a>
-                          <span class="text">Watch <br>
-                            Video</span>
-                        </div>
-                      </div>
+                      
                       <div class="hero-thumb">
                         <div class="thumb-1">
-                          <img src="assets/imgs/gallery/img-s-68.webp" alt="image">
+                          <img src="assets/imgs/gallery/1.jpg" alt="image">
                         </div>
                         <div class="thumb-2">
-                          <img src="assets/imgs/gallery/img-s-69.webp" alt="image">
+                          <img src="assets/imgs/gallery/2.jpg" alt="image">
                         </div>
                       </div>
                     </div>
