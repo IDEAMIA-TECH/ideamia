@@ -138,9 +138,9 @@
                   <div class="content-first">
                     <div class="section-title-wrapper">
                       <div class="title-wrapper">
-                        <h1 class="section-title has_fade_anim">Somos
-                          Expertos en<span class="marked">Diseño<br>
-                            WEB</span> y <span class="rotated">Desarrollo</span><span class="shape-1">
+                        <h1 class="section-title has_fade_anim">Expertos 
+                           en<span class="marked">Diseño WEB<br>
+                            </span> y <span class="rotated">Desarrollo</span><span class="shape-1">
                             <img class="show-light has_fade_anim" data-fade-offset="0"
                               src="assets/imgs/shape/img-s-60.webp" alt="shape">
                             <img class="show-dark has_fade_anim" data-fade-offset="0"
