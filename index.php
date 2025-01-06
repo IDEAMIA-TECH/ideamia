@@ -6,16 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Arolax HTML5 Template">
-
   <title>IDEAMIA - Inicio</title>
-
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="assets/imgs/logo/favicon.png">
-
-
-
-
-
   <!-- All CSS files -->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/all.min.css">
@@ -24,30 +17,22 @@
   <link rel="stylesheet" href="assets/css/meanmenu.min.css">
   <link rel="stylesheet" href="assets/css/magnific-popup.css">
   <link rel="stylesheet" href="assets/css/master-web-agency.css">
-
-
 </head>
 
-
 <body class="font-heading-teko-bold">
-
   <!-- Preloader -->
-  <?PHP 
-  include ('preloader.html');
+  <?PHP
+  include('preloader.html');
   ?>
-
   <!-- Cursor Animation -->
   <div class="cursor1"></div>
   <div class="cursor2"></div>
-
   <!-- Sroll to top -->
   <div class="progress-wrap">
     <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
       <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
     </svg>
   </div>
-
-
   <!-- offcanvas start  -->
   <div class="offcanvas-3__area">
     <div class="offcanvas-3__inner">
@@ -102,26 +87,18 @@
     </div>
   </div>
   <!-- offcanvas end  -->
-
-
-  
-
   <!-- Header area start -->
-  <?php 
-  include ('header.php');
+  <?php
+  include('header.php');
   ?>
   <!-- Header area end -->
-
   <div class="has-smooth" id="has_smooth"></div>
   <div id="smooth-wrapper">
     <div id="smooth-content">
       <div class="body-wrapper body-web-agency">
-
         <!-- overlay switcher close  -->
         <div class="overlay-switcher-close"></div>
-
         <main>
-
           <!-- hero area start  -->
           <section class="hero-area">
             <div class="container large">
@@ -139,8 +116,8 @@
                     <div class="section-title-wrapper">
                       <div class="title-wrapper">
                         <h1 class="section-title has_fade_anim">Expertos en
-                           <span class="marked"> <br>
-                            </span> Marqueting y Desarrollo<span class="rotated"></span><span class="shape-1">
+                          <span class="marked"> <br>
+                          </span> Marqueting y Desarrollo<span class="rotated"></span><span class="shape-1">
                             <img class="show-light has_fade_anim" data-fade-offset="0"
                               src="assets/imgs/shape/img-s-60.webp" alt="shape">
                             <img class="show-dark has_fade_anim" data-fade-offset="0"
@@ -175,7 +152,6 @@
                         <img class="show-light" src="assets/imgs/shape/img-s-62.webp" alt="shape">
                         <img class="show-dark" src="assets/imgs/shape/img-s-62-light.webp" alt="shape">
                       </div>
-                      
                       <div class="hero-thumb">
                         <div class="thumb-1">
                           <img src="assets/imgs/gallery/1.jpg" alt="image">
@@ -205,7 +181,6 @@
             </div>
           </section>
           <!-- hero area end  -->
-
           <!-- clients area start  -->
           <div class="container-hd">
             <div class="clients-area">
@@ -255,7 +230,6 @@
             </div>
           </div>
           <!-- clients area end  -->
-
           <!-- about area start  -->
           <section class="about-area">
             <div class="container">
@@ -331,7 +305,6 @@
             </div>
           </section>
           <!-- about area end  -->
-
           <!-- feature area start  -->
           <section class="feature-area">
             <div class="container">
@@ -394,7 +367,6 @@
             </div>
           </section>
           <!-- feature area end  -->
-
           <!-- skill area start  -->
           <section class="skill-area">
             <div class="container">
@@ -516,7 +488,6 @@
             </div>
           </section>
           <!-- skill area end  -->
-
           <!-- eterprise area start  -->
           <div class="enterprise-area">
             <div class="container">
@@ -569,7 +540,6 @@
             </div>
           </div>
           <!-- eterprise area end  -->
-
           <!-- work area start  -->
           <div class="work-area has_fade_anim">
             <div class="container-hd">
@@ -686,7 +656,6 @@
             </div>
           </div>
           <!-- work area end  -->
-
           <!-- service area start  -->
           <section class="service-area">
             <div class="container">
@@ -823,11 +792,9 @@
             </div>
           </section>
           <!-- service area end  -->
-
           <div class="image-wrapper overflow-hidden">
             <img class="w-100" data-speed="0.8" src="assets/imgs/gallery/img-s-19.webp" alt="gallery image">
           </div>
-
           <!-- testimonial area start  -->
           <section class="testimonial-area">
             <div class="container">
@@ -925,7 +892,6 @@
             </div>
           </section>
           <!-- testimonial area end  -->
-
           <!-- team area start  -->
           <section class="team-area">
             <div class="container">
@@ -999,7 +965,6 @@
             </div>
           </section>
           <!-- team area end  -->
-
           <!-- faq area start  -->
           <section class="faq-area">
             <div class="container">
@@ -1137,7 +1102,6 @@
             </div>
           </section>
           <!-- faq area end  -->
-
           <!-- contact area start  -->
           <section class="contact-area">
             <div class="container">
@@ -1162,7 +1126,6 @@
             </div>
           </section>
           <!-- contact area end  -->
-
           <!-- blog area start  -->
           <section class="blog-area">
             <div class="container">
@@ -1243,7 +1206,6 @@
             </div>
           </section>
           <!-- blog area end  -->
-
           <!-- cta area start  -->
           <section class="cta-area">
             <div class="container">
@@ -1269,9 +1231,7 @@
             </div>
           </section>
           <!-- cta area end  -->
-
         </main>
-
         <!-- footer area start  -->
         <footer class="footer-area">
           <div class="container large">
@@ -1296,13 +1256,9 @@
           </div>
         </footer>
         <!-- footer area end  -->
-
       </div>
     </div>
   </div>
-
-
-
   <!-- All JS files -->
   <script src="assets/js/jquery-3.6.0.min.js"></script>
   <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -1320,9 +1276,7 @@
   <script src="assets/js/main.js"></script>
   <script src="assets/js/error-handling.js"></script>
   <script src="assets/js/offcanvas.js"></script>
-
   <script>
-
     // client slider 
     if ('.client-slider-active') {
       var client_slider_active = new Swiper(".client-slider-active", {
@@ -1336,7 +1290,6 @@
         },
       });
     }
-
     // work slider 
     if ('.work-slider-active') {
       var work_slider_active = new Swiper(".work-slider-active", {
@@ -1350,7 +1303,6 @@
         },
       });
     }
-
     // testimonial slider 
     if ('.testimonial-slider-active') {
       var testimonial_slider_active = new Swiper(".testimonial-slider-active", {
@@ -1365,9 +1317,7 @@
         },
       });
     }
-
   </script>
-
 </body>
 
 </html>
