@@ -11,7 +11,7 @@
           <nav class="main-menu">
             <ul>
             <li><a href="index.php">Inicio</a></li>
-              <li><a href="nosotros.php">Nosotros</a></li>
+              <li><a href="about.php">Nosotros</a></li>
               <li class="menu-item-has-children">
                 <a href="#">Nuestro Trabajo</a>
                 <ul class="dp-menu">
